@@ -2,7 +2,50 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0814eca9-b828-4091-bd0d-226748bdd529" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_resized.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_resized.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_resized.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figure2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Figure2.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HUMC_20200602_102348.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Homepage3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MACH_homepage_v1_resized.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/add_padding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ai_imgs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/concat_two_imgs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hos4_resized.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hos_combined.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hos_combined.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/office1.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/office2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/office3.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/office_combined.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper1_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper1_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper1_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper2_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper2_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper2_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper3_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper3_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper3_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper4_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper4_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper4_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper_combined.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper_combined1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper_combined2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper_combined3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/paper_combined5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/puttext.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -2,16 +2,13 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i);
 
-
-
-
-
 body {
   font-style: normal;
   line-height: 1.5;
 }
 .mbr-section-title {
   font-style: normal;
+  font-weight: normal;
   line-height: 1.2;
 }
 .mbr-section-subtitle {
@@ -30,10 +27,10 @@ body {
 }
 .display-2 {
   font-family: 'Lato', sans-serif;
-  font-size: 3rem;
+  font-size: 2.7rem;
 }
 .display-2 > .mbr-iconfont {
-  font-size: 4.8rem;
+  font-size: 2.5rem;
 }
 .display-4 {
   font-family: 'Open Sans', sans-serif;
@@ -1818,7 +1815,20 @@ body {
   color: #c1c1c1 !important;
 }
 .cid-ruNtyUeTOv {
-  background-image: url("../../../assets/images/Homepage1.png");
+  background-image: url("../../../assets/images/Main_v4.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain; /* 100% 100vh;
+  /* -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  resize : both;
+  min-width : 10vmin;
+  min-height: 50vh;
+  width: 100vw;
+  height: 100vh;
+  */
+  /* height: 150px; */
 }
 .cid-ruNBDZ0eEF {
   padding-top: 90px;
@@ -1872,6 +1882,7 @@ body {
 .cid-ruNvXuN71m .mbr-section-title {
   text-align: left;
 }
+
 .cid-ruXpPiazmW {
   padding-top: 90px;
   padding-bottom: 90px;
